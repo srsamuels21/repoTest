@@ -5,4 +5,4 @@ variable == true ? console.log("hello") : false;
 var red = "red";
 var blue = "blue";
 
-red == blue ? true : false;
+red == blue ? console.log("purple") : false;
