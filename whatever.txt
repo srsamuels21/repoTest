@@ -1,4 +1,1 @@
-fire hazards are bad
-
-something random 
-turnips are hacking 
+hello world 
